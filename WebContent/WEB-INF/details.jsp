@@ -190,7 +190,7 @@
                     <div class="columns">
                     <div class="column is-4 is-offset-2">
                             <div class="content">
-    				 <p style="float: left;"><img src="img/inscrivez.png"></p></div>
+    				 <p style="float: left;"><img src="img/inscrivezDE.png"></p></div>
    				 </div>
   				  <div class="column is-4">
                             <div class="content">
